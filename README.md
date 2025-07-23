@@ -52,7 +52,7 @@ Browser-SwiftUI is a lightweight HTML rendering engine built entirely in SwiftUI
 `React.js` | `Angular` | `Vue.js` | `Next.js` | `NestJS` | `Express.js` | `SwiftUI`
 
 **Databases:**  
-`MongoDB` | `PostgreSQL` | `Firestore` | `SQL Server` | `MySQL`
+`MongoDB` | `PostgreSQL` | `Firestore` | `SQL Server` | `MySQL` | `Core Data` | `SwiftData`
 
 **Tools & Platforms:**  
 `Git` | `Docker` | `AWS` | `Firebase` | `Jenkins` | `Strapi` | `GitHub Actions`
