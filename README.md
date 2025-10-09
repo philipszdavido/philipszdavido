@@ -46,7 +46,7 @@ Browser-SwiftUI is a lightweight HTML rendering engine built entirely in SwiftUI
 ## 🛠 Tech Stack
 
 **Languages:**  
-`JavaScript` | `TypeScript` | `Swift` | `C#` | `PHP`
+`JavaScript` | `C/C++` | `TypeScript` | `Swift` | `C#` | `PHP`
 
 **Frameworks & Libraries:**  
 `React.js` | `Angular` | `Vue.js` | `Next.js` | `NestJS` | `Express.js` | `SwiftUI`
