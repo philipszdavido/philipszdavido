@@ -16,8 +16,7 @@ I'm a full-stack & mobile developer with 9+ years of experience building modern 
 
 ## 🚀 Featured Projects
 
-- [Ardan Programming Language](https://github.com/ardan-lang)
-
+- **[Ardan Programming Language](https://github.com/ardan-lang)**
 Ardan is an experimental, dynamically typed programming language inspired by JavaScript, featuring a hand-written lexer, parser, and interpreter implemented in C++. Ardan supports variables, functions, classes, inheritance, arrays, objects, control flow, and modern syntax features such as let/const/var, scoping, and operator overloading.
  
 - 💬 **[MyBuddy Chat App](https://github.com/philipszdavido/MyBuddy)** (SwiftUI + Firebase + Core Data)  
