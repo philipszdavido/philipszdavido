@@ -67,6 +67,7 @@ Browser-SwiftUI is a lightweight HTML rendering engine built entirely in SwiftUI
 - 📫 [Email](mailto:kurtwanger40@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/chidume-nnamdi/)  
 - 📺 [YouTube - Understanding Dev](https://www.youtube.com/channel/UCUCHv7YOQXWy2dsL-0IrlPw)
+- 📚 [Medium](https://medium.com/@kurtwanger40)
 
 ---
 
