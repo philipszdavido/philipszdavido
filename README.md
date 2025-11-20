@@ -18,14 +18,42 @@ I'm a full-stack & mobile developer with 9+ years of experience building modern 
 
 - **[Ardan Programming Language](https://github.com/ardan-lang)**
 Ardan is an experimental, dynamically typed programming language inspired by JavaScript, featuring a hand-written lexer, parser, and interpreter implemented in C++. Ardan supports variables, functions, classes, inheritance, arrays, objects, control flow, and modern syntax features such as let/const/var, scoping, and operator overloading.
- 
+
+ Key Features 
+Dynamic Typing: Types are determined at runtime. 
+Block & Lexical Scope: Supports var, let, and const with scoping rules. 
+First-Class Functions: Functions can be assigned, passed, and returned. 
+Classes & Inheritance: ES6-style classes, constructors, inheritance via extends. 
+Rich Expressions: Arithmetic, logical, bitwise, assignment, and comparison operators. 
+Arrays & Objects: Flexible syntax and semantics. 
+Exception Handling: try, catch, finally, and throw. 
+Extensible: Add new built-ins and modules in C++.
+
+Tools and Tech: C++, Xcode, C++20, Cocoa, Linux Server, Win32 API.
+
 - 💬 **[MyBuddy Chat App](https://github.com/philipszdavido/MyBuddy)** (SwiftUI + Firebase + Core Data)  
   A real-time iOS chat app to message your contacts, share media (via Cloudinary), and engage with a personalized feed system. Built with SwiftUI, Firestore, Core Data, and Cloud Functions.  
-  → *Features:* Media sharing, feed liking, offline support, contact-based fan-out.  
-  → *Tech:* Firebase Auth, Firestore, SwiftUI, Cloudinary, Core Data.
+  → *Features:* Media sharing, feed liking, offline support, contact-based fan-out.
+  Built full chat experience: text, image, and feed media
+
+
+Integrated offline mode and local caching using Core Data
+
+
+Real-time updates using Firestore listeners
+
+  → *Tech:* Firebase Auth, Firestore, SwiftUI, Cloudinary, Core Data, SwiftUI, Firestore, Core Data, Firebase Auth, Cloudinary, Cloud Functions
 
 - 🕊️ **[Rosary Companion App](https://github.com/philipszdavido/Rosary)** (SwiftUI)  
   A guided Rosary prayer app with manual and auto modes, voice narration, custom bead colors, and local data storage using SwiftData.
+A guided prayer app with audio playback, custom bead designs, auto/manual modes, and local storage using SwiftData.
+
+
+  MVVM architecture with state-based UI updates
+
+
+Voice narration, accessibility support
+
 
 - 💰 **[NetWorth Tracker](https://github.com/philipszdavido/networt)** (SwiftUI)  
   Track bank balances and total net worth. Add/remove transactions, manage multiple accounts, and view financial history in a clean iOS interface.
@@ -38,6 +66,9 @@ Browser-SwiftUI is a lightweight HTML rendering engine built entirely in SwiftUI
 
 - 🧩 **[HTMLParser](https://github.com/philipszdavido/HTMLParser)**
 **HTMLParser** is a lightweight HTML parsing engine written entirely in **Swift**. It converts raw HTML strings into a structured tree of tokens and nodes, making it ideal for building custom renderers (like `Browser-SwiftUI`) without relying on WebKit.
+
+  A lightweight HTML parser written entirely in C++ — no external dependencies. Designed for speed, clarity, and flexibility, this parser can tokenize and extract HTML elements, attributes, and text content for further processing.
+
 
 - ⚡ **[POSTly](https://post-ly.github.io/)** (React + Node)  
   A browser-based REST API tester for developers. Lightweight, fast, and ideal for debugging endpoints without switching tools.
