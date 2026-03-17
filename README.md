@@ -4,16 +4,6 @@ I'm a full-stack & mobile developer with 9+ years of experience building modern 
 
 ---
 
-## 💼 What I Do
-
-- 🎨 **Frontend Engineering** — React.js, Angular, Vue.js, Next.js, Tailwind CSS  
-- 🔧 **Backend Development** — Node.js, NestJS, Express, Firebase, GraphQL  
-- 📱 **iOS Development** — Swift, SwiftUI, ObservableObject, SwiftData  
-- ☁️ **Cloud & DevOps** — AWS, Firebase, Docker, GitHub Actions, Jenkins  
-- 🧠 **Architecture & Systems Design** — Microfrontends, Modular Monoliths, Clean Architecture
-
----
-
 ## 🚀 Featured Projects
 
 - **[mini-ng](https://github.com/mini-ng/mini-ng)**
@@ -48,6 +38,17 @@ Browser-SwiftUI is a lightweight HTML rendering engine built entirely in SwiftUI
 - 🧱 **[Course Platform](https://onlinecoursehost.com/) (Full Stack)**  
   Built and led a course SaaS platform with content drip scheduling, page builder, Firestore data models, and AWS-integrated media delivery.
 
+---
+
+## 💼 What I Do
+
+- 🎨 **Frontend Engineering** — React.js, Angular, Vue.js, Next.js, Tailwind CSS  
+- 🔧 **Backend Development** — Node.js, NestJS, Express, Firebase, GraphQL  
+- 📱 **iOS Development** — Swift, SwiftUI, ObservableObject, SwiftData  
+- ☁️ **Cloud & DevOps** — AWS, Firebase, Docker, GitHub Actions, Jenkins  
+- 🧠 **Architecture & Systems Design** — Microfrontends, Modular Monoliths, Clean Architecture
+
+---
 
 ## 🛠 Tech Stack
 
