@@ -15,7 +15,7 @@ I'm a full-stack & mobile developer with 9+ years of experience building modern 
 - **[TensorForge.js](https://github.com/philipszdavido/TensorForgejs)**
   Machine Learning framework for JavaScript
 
-  - **[AIInference](https://github.com/philipszdavido/AIInference)**
+- **[AIInference](https://github.com/philipszdavido/AIInference)**
     AI Inference Studio for the TensorForgejs Machine Learning library models.
 
 - 💬 **[MyBuddy Chat App](https://github.com/philipszdavido/MyBuddy)** (SwiftUI + Firebase + Core Data)  
