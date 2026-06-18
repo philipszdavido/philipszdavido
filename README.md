@@ -10,7 +10,13 @@ I'm a full-stack & mobile developer with 9+ years of experience building modern 
   A JavaScript framework similar to the Angular framework.
 
 - **[Ardan Programming Language](https://github.com/ardan-lang)**
-Ardan is an experimental, dynamically typed programming language inspired by JavaScript, featuring a hand-written lexer, parser, and interpreter implemented in C++. Ardan supports variables, functions, classes, inheritance, arrays, objects, control flow, and modern syntax features such as let/const/var, scoping, and operator overloading.
+  Ardan is an experimental, dynamically typed programming language inspired by JavaScript, featuring a hand-written lexer, parser, and interpreter implemented in C++. Ardan supports variables, functions, classes, inheritance, arrays, objects, control flow, and modern syntax features such as let/const/var, scoping, and operator overloading.
+
+- **[TensorForge.js](https://github.com/philipszdavido/TensorForgejs)**
+  Machine Learning framework for JavaScript
+
+  - **[AIInference](https://github.com/philipszdavido/AIInference)**
+    AI Inference Studio for the TensorForgejs Machine Learning library models.
 
 - 💬 **[MyBuddy Chat App](https://github.com/philipszdavido/MyBuddy)** (SwiftUI + Firebase + Core Data)  
   A real-time iOS chat app to message your contacts, share media (via Cloudinary), and engage with a personalized feed system. Built with SwiftUI, Firestore, Core Data, and Cloud Functions.  
