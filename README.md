@@ -10,7 +10,7 @@ I'm a full-stack & mobile developer with 9+ years of experience building modern 
   A JavaScript framework similar to the Angular framework.
 
 - **[Ardan Programming Language](https://github.com/ardan-lang)**
-  Ardan is an experimental, dynamically typed programming language inspired by JavaScript, featuring a hand-written lexer, parser, and interpreter implemented in C++. Ardan supports variables, functions, classes, inheritance, arrays, objects, control flow, and modern syntax features such as let/const/var, scoping, and operator overloading.
+  Ardan, a programming language written in C++..
 
 - **[TensorForge.js](https://github.com/philipszdavido/TensorForgejs)**
   Machine Learning framework for JavaScript
@@ -18,29 +18,28 @@ I'm a full-stack & mobile developer with 9+ years of experience building modern 
 - **[AIInference](https://github.com/philipszdavido/AIInference)**
     AI Inference Studio for the TensorForgejs Machine Learning library models.
 
-- 💬 **[MyBuddy Chat App](https://github.com/philipszdavido/MyBuddy)** (SwiftUI + Firebase + Core Data)  
+- **[MyBuddy Chat App](https://github.com/philipszdavido/MyBuddy)** (SwiftUI + Firebase + Core Data)  
   A real-time iOS chat app to message your contacts, share media (via Cloudinary), and engage with a personalized feed system. Built with SwiftUI, Firestore, Core Data, and Cloud Functions.  
 
-- 🕊️ **[Rosary Companion App](https://github.com/philipszdavido/Rosary)** (SwiftUI)  
+- **[Rosary Companion App](https://github.com/philipszdavido/Rosary)** (SwiftUI)  
   A guided Rosary prayer app with manual and auto modes, voice narration, custom bead colors, and local data storage using SwiftData.
-A guided prayer app with audio playback, custom bead designs, auto/manual modes, and local storage using SwiftData.
 
-- 💰 **[NetWorth Tracker](https://github.com/philipszdavido/networt)** (SwiftUI)  
+- **[NetWorth Tracker](https://github.com/philipszdavido/networt)** (SwiftUI)  
   Track bank balances and total net worth. Add/remove transactions, manage multiple accounts, and view financial history in a clean iOS interface.
 
-- 📺 **[Understanding Dev App](https://github.com/philipszdavido/UnderstandingDevChannel)** (SwiftUI)  
+- **[Understanding Dev App](https://github.com/philipszdavido/UnderstandingDevChannel)** (SwiftUI)  
   A native iOS app for my YouTube channel. Displays videos, playlists, and includes customizable settings – built with MVVM and modern SwiftUI.
 
-- 🧭 **[Browser-SwiftUI](https://github.com/philipszdavido/Browser-SwiftUI)**
-Browser-SwiftUI is a lightweight HTML rendering engine built entirely in SwiftUI. It takes an HTML string and dynamically parses and renders it using native SwiftUI views — no WebKit, no WKWebView, just pure SwiftUI.
+- **[Browser-SwiftUI](https://github.com/philipszdavido/Browser-SwiftUI)**
+Browser-SwiftUI is a lightweight HTML rendering engine built entirely in SwiftUI.
 
-- 🧩 **[HTMLParser](https://github.com/philipszdavido/HTMLParser)**
-**HTMLParser** is a lightweight HTML parsing engine written entirely in **Swift**. It converts raw HTML strings into a structured tree of tokens and nodes, making it ideal for building custom renderers (like `Browser-SwiftUI`) without relying on WebKit.
+- **[HTMLParser](https://github.com/philipszdavido/HTMLParser)**
+**HTMLParser** is a lightweight HTML parsing engine written entirely in **Swift**.
 
-- ⚡ **[POSTly](https://post-ly.github.io/)** (React + Node)  
+- **[POSTly](https://post-ly.github.io/)** (React + Node)  
   A browser-based REST API tester for developers. Lightweight, fast, and ideal for debugging endpoints without switching tools.
 
-- 🧱 **[Course Platform](https://onlinecoursehost.com/) (Full Stack)**  
+- **[Course Platform](https://onlinecoursehost.com/) (Full Stack)**  
   Built and led a course SaaS platform with content drip scheduling, page builder, Firestore data models, and AWS-integrated media delivery.
 
 ---
