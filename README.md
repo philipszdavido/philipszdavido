@@ -4,7 +4,7 @@ I'm a full-stack & mobile developer with 9+ years of experience building modern 
 
 ---
 
-## 🚀 Featured Projects
+## My Projects
 
 - **[mini-ng](https://github.com/mini-ng/mini-ng)**
   A JavaScript framework similar to the Angular framework.
@@ -19,7 +19,7 @@ I'm a full-stack & mobile developer with 9+ years of experience building modern 
     AI Inference Studio for the TensorForgejs Machine Learning library models.
 
 - **[MyBuddy Chat App](https://github.com/philipszdavido/MyBuddy)** (SwiftUI + Firebase + Core Data)  
-  A real-time iOS chat app to message your contacts, share media (via Cloudinary), and engage with a personalized feed system. Built with SwiftUI, Firestore, Core Data, and Cloud Functions.  
+  A real-time iOS chat app to message your contacts, share media (via Cloudinary), and engage with a personalized feed system.
 
 - **[Rosary Companion App](https://github.com/philipszdavido/Rosary)** (SwiftUI)  
   A guided Rosary prayer app with manual and auto modes, voice narration, custom bead colors, and local data storage using SwiftData.
@@ -44,17 +44,17 @@ Browser-SwiftUI is a lightweight HTML rendering engine built entirely in SwiftUI
 
 ---
 
-## 💼 What I Do
+## What I Do
 
-- 🎨 **Frontend Engineering** — React.js, Angular, Vue.js, Next.js, Tailwind CSS  
-- 🔧 **Backend Development** — Node.js, NestJS, Express, Firebase, GraphQL  
-- 📱 **iOS Development** — Swift, SwiftUI, ObservableObject, SwiftData  
-- ☁️ **Cloud & DevOps** — AWS, Firebase, Docker, GitHub Actions, Jenkins  
-- 🧠 **Architecture & Systems Design** — Microfrontends, Modular Monoliths, Clean Architecture
+- **Frontend Engineering** — React.js, Angular, Vue.js, Next.js, Tailwind CSS  
+- **Backend Development** — Node.js, NestJS, Express, Firebase, GraphQL  
+- **iOS Development** — Swift, SwiftUI, ObservableObject, SwiftData  
+- **Cloud & DevOps** — AWS, Firebase, Docker, GitHub Actions, Jenkins  
+- **Architecture & Systems Design** — Microfrontends, Modular Monoliths, Clean Architecture
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:**  
 `JavaScript` | `C/C++` | `TypeScript` | `Swift` | `C#` | `PHP`
@@ -70,7 +70,7 @@ Browser-SwiftUI is a lightweight HTML rendering engine built entirely in SwiftUI
 
 ---
 
-## 🎯 Let's Connect
+## Let's Connect
 
 - 📫 [Email](mailto:kurtwanger40@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/chidume-nnamdi/)  
