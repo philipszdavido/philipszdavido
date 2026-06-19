@@ -18,6 +18,9 @@ I'm a full-stack & mobile developer with 9+ years of experience building modern 
 - **[AIInference](https://github.com/philipszdavido/AIInference)**
     AI Inference Studio for the TensorForgejs Machine Learning library models.
 
+- **[Machine Learning Classroom](https://philipszdavido.github.io/ml-visualizer/)**
+  An interactive, step-by-step visual sandbox built with Angular and Plotly.
+
 - **[MyBuddy Chat App](https://github.com/philipszdavido/MyBuddy)** (SwiftUI + Firebase + Core Data)  
   A real-time iOS chat app to message your contacts, share media (via Cloudinary), and engage with a personalized feed system.
 
