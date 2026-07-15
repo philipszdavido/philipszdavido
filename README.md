@@ -12,6 +12,9 @@ I'm a full-stack & mobile developer with 9+ years of experience building modern 
 - **[Ardan Programming Language](https://github.com/ardan-lang)**
   Ardan, a programming language written in C++..
 
+- **[ForgeEngine](https://github.com/philipszdavido/ForgeEngine)**
+  A browser engine written in C++20
+
 - **[TensorForge.js](https://github.com/philipszdavido/TensorForgejs)**
   Machine Learning framework for JavaScript
 
