@@ -48,9 +48,6 @@ Browser-SwiftUI is a lightweight HTML rendering engine built entirely in SwiftUI
 - **[POSTly](https://post-ly.github.io/)** (React + Node)  
   A browser-based REST API tester for developers. Lightweight, fast, and ideal for debugging endpoints without switching tools.
 
-- **[Course Platform](https://onlinecoursehost.com/) (Full Stack)**  
-  Built and led a course SaaS platform with content drip scheduling, page builder, Firestore data models, and AWS-integrated media delivery.
-
 ---
 
 ## What I Do
