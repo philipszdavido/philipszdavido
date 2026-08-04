@@ -15,6 +15,9 @@ I'm a full-stack & mobile developer with 9+ years of experience building modern 
 - **[ForgeEngine](https://github.com/philipszdavido/ForgeEngine)**
   A browser engine written in C++20
 
+- **[PyTensorForge](https://github.com/philipszdavido/PyTensorForge)**
+  Machine Learning framework
+
 - **[TensorForge.js](https://github.com/philipszdavido/TensorForgejs)**
   Machine Learning framework for JavaScript
 
