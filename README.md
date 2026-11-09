@@ -45,7 +45,7 @@ Browser-SwiftUI is a lightweight HTML rendering engine built entirely in SwiftUI
 - **[HTMLParser](https://github.com/philipszdavido/HTMLParser)**
 **HTMLParser** is a lightweight HTML parsing engine written entirely in **Swift**.
 
-- **[POSTly](https://post-ly.github.io/)** (React + Node)  
+- **[POSTly](https://forgereq.vercel.app/app)**  
   A browser-based REST API tester for developers. Lightweight, fast, and ideal for debugging endpoints without switching tools.
 
 ---
